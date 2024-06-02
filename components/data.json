@@ -1,0 +1,29 @@
+{
+    "features": [
+      {
+        "icon": "GiStarShuriken",
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      },
+      {
+        "icon": "TbHexagon3D",
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      },
+      {
+        "icon": "BiCube",
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+      }
+    ],
+
+    "benefits": [
+      {
+        "icon": "IoIosNotifications",
+        "title": "Clever Notifications",
+        "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam."
+      }
+    ]
+  
+  }
+  

@@ -1,3 +1,4 @@
+import faqData from './data.json'
 const Faqs=()=>{
 return(
     <div className="container mx-auto p-4">
